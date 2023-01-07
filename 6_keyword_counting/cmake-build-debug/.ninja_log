@@ -1,0 +1,9 @@
+# ninja log v5
+0	90	1669699577257367179	CMakeFiles/6_keyword_counting.dir/main.c.o	7f26077ded21c8ce
+91	126	1669699577329363309	6_keyword_counting	b3f28a742618139d
+1	53	1669699678072423210	CMakeFiles/6_keyword_counting.dir/main.c.o	7f26077ded21c8ce
+53	87	1669699678104421783	6_keyword_counting	b3f28a742618139d
+0	86	1669699882008832714	CMakeFiles/6_keyword_counting.dir/main.c.o	7f26077ded21c8ce
+87	162	1669699882084830380	6_keyword_counting	b3f28a742618139d
+0	40	1669700102691216963	CMakeFiles/6_keyword_counting.dir/main.c.o	7f26077ded21c8ce
+40	72	1669700102731216128	6_keyword_counting	b3f28a742618139d

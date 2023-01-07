@@ -1,0 +1,3 @@
+/home/manib/Documents/git_repos/udacity-cpp/0_cprog_knr/3_atoi/cmake-build-debug/CMakeFiles/3_atoi.dir
+/home/manib/Documents/git_repos/udacity-cpp/0_cprog_knr/3_atoi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/manib/Documents/git_repos/udacity-cpp/0_cprog_knr/3_atoi/cmake-build-debug/CMakeFiles/rebuild_cache.dir

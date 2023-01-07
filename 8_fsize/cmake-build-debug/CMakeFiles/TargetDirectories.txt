@@ -1,0 +1,3 @@
+/home/manib/Documents/git_repos/udacity-cpp/0_cprog_knr/8_fsize/cmake-build-debug/CMakeFiles/8_fsize.dir
+/home/manib/Documents/git_repos/udacity-cpp/0_cprog_knr/8_fsize/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/manib/Documents/git_repos/udacity-cpp/0_cprog_knr/8_fsize/cmake-build-debug/CMakeFiles/rebuild_cache.dir

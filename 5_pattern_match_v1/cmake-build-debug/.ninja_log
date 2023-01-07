@@ -1,0 +1,9 @@
+# ninja log v5
+0	23	1668487581959295713	CMakeFiles/5_pattern_match_v1.dir/main.c.o	3ba5c6d193aac732
+23	36	1668487581979295630	5_pattern_match_v1	87dc73e85bf9926c
+0	23	1668487626923112061	CMakeFiles/5_pattern_match_v1.dir/main.c.o	3ba5c6d193aac732
+23	35	1668487626943111980	5_pattern_match_v1	87dc73e85bf9926c
+0	24	1668487646091035174	CMakeFiles/5_pattern_match_v1.dir/main.c.o	3ba5c6d193aac732
+24	39	1668487646115035078	5_pattern_match_v1	87dc73e85bf9926c
+0	24	1668487659670981179	CMakeFiles/5_pattern_match_v1.dir/main.c.o	3ba5c6d193aac732
+24	42	1668487659698981068	5_pattern_match_v1	87dc73e85bf9926c

@@ -1,0 +1,3 @@
+/home/manib/Documents/git_repos/udacity-cpp/0_cprog_knr/ex410/cmake-build-debug/CMakeFiles/ex410.dir
+/home/manib/Documents/git_repos/udacity-cpp/0_cprog_knr/ex410/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/manib/Documents/git_repos/udacity-cpp/0_cprog_knr/ex410/cmake-build-debug/CMakeFiles/rebuild_cache.dir
